@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Skolap/Skolap/raw/main/gif/banner.gif)](https://adddomainhere.com)
+[![MasterHead](https://raw.githubusercontent.com/Skolap/Skolap/main/gif/banner02.gif)](https://adddomainhere.com)
 <h1 align="center">Hi 👋, I'm Shailesh</h1>
 <h3 align="center">Skilled and motivated in Computer Science.</h3>
 
