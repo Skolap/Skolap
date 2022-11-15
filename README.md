@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skolap&label=Profile%20views&color=0e75b6&style=flat" alt="skolap" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=skolap" alt="skolap" /></a> </p>
-
 - 🌱 I’m currently learning **React, Express**
 
 - 👯 I’m looking to collaborate on **back-end developer for react front-end**
