@@ -8,7 +8,7 @@
  https://raw.githubusercontent.com/Skolap/Skolap/main/gif/rightimg.webp
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Skolap/Skolap/main/gif/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966.gif" /> 
 -->
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Skolap/Skolap/main/gif/rightimg.webp" />
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Skolap/Skolap/main/gif/rightimg.webp" />
 
 # 💫 About Me:
 🌱 I’m currently learning **React, Express**<br>👯 I’m looking to collaborate on **back-end developer for react front-end**<br>👨‍💻 All of my projects are available at [skolap.github.io](https://skolap.github.io)<br>📫 How to reach me **skolap22@gmail.com**
