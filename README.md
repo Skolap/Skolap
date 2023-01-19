@@ -36,6 +36,7 @@
 ![Jira](./assets/TeckStack/jira.svg)
 ![Linux](./assets/TeckStack/Linux.svg)
 ![VS Code](./assets/TeckStack/VS_Code.svg)
+![Figma](./assets/TeckStack/figma.svg)
 <br/>
 <br/>
 
@@ -51,8 +52,8 @@
   </p>
 
 <br/>
-
-![Shailesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=skolap&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+<!-- This shows Github Graph -->
+<!-- ![Shailesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=skolap&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true) -->
 
 <br/>
 <br/>
