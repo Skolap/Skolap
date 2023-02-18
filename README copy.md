@@ -15,8 +15,6 @@
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/skolap) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/skolap)
-<br>
-<br>
 
 # 💻 Tech Stack:
 
@@ -44,6 +42,7 @@
   <img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=skolap&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   <br/>
 
+<br/>
 <br/>
 
 ![Shailesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=skolap&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
