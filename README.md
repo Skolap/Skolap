@@ -43,7 +43,7 @@
 # 📊 GitHub Stats:
 
 <p align="center">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shailesh Kolap's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=skolap&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shailesh Kolap's streak" src="https://github-readme-streak-stats-sepia.vercel.app?user=skolap&theme=black-ice&hide_border=true&mode=weekly&stroke=0000&background=060A0CD0"/>
 </p>
 
 <p align="middle" float="left">
