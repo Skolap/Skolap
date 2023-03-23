@@ -47,10 +47,8 @@
 </p>
 
 <p align="middle" float="left">
-    <img alt="Shailesh Kolap's Github Stats" src="github-readme-stats-wine-theta.vercel.app
-/api?username=skolap&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img alt="Shailesh Kolap's Top Languages" src="github-readme-stats-wine-theta.vercel.app
-/api/top-langs/?username=skolap&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Shailesh Kolap's Github Stats" src="https://github-readme-stats-skolap.vercel.app/api?username=skolap&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Shailesh Kolap's Top Languages" src="https://github-readme-stats-skolap.vercel.app/api/top-langs/?username=skolap&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
   </p>
 
 <br/>
