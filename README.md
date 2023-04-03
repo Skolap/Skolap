@@ -46,9 +46,9 @@
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Shailesh Kolap's streak" src="https://github-readme-streak-stats-sepia.vercel.app?user=skolap&theme=black-ice&hide_border=true&mode=weekly&stroke=0000&background=060A0CD0"/>
 </p>
 
-<p align="middle" float="left">
+<p align="middle" float="left" >
     <img alt="Shailesh Kolap's Github Stats" src="https://github-readme-stats-skolap.vercel.app/api?username=skolap&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-    <img alt="Shailesh Kolap's Top Languages" src="https://github-readme-stats-skolap.vercel.app/api/top-langs/?username=skolap&langs_count=8&count_private=true?exclude_repo=github-readme-streak-stats,github-readme-streak-stats&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+    <img alt="Shailesh Kolap's Top Languages" src="https://github-readme-stats-skolap.vercel.app/api/top-langs/?username=skolap&langs_count=8&count_private=true&exclude_repo=github-readme-streak-stats,github-readme-streak-stats&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="160"/>
   </p>
 
 <br/>
